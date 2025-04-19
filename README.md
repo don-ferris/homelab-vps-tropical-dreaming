@@ -1,4 +1,4 @@
-# TROPICAL-DREAMING
+# TROPICAL-DREAMING (BLUDIT BLOG)
 **Container**: tropical-dreaming  
 **Server**: VPS  
 **Host Path**: `/root/docker/tropical-dreaming`
@@ -7,7 +7,7 @@
 
 ### [▶️](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  Overview
 
-[Tropical Dreamin - Krista & Donnie's Panama Travel Blog](https://TropicalDreaming.TikiShack.com/) Our Panama travel blog
+[Tropical Dreaming - Krista & Donnie's Panama Expat Travel Blog](https://TropicalDreaming.TikiShack.com/) Our Panama travel blog
 
 ---
 
