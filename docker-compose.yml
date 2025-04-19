@@ -1,0 +1,12 @@
+services:
+  tropical-dreaming:
+    container_name: tropical-dreaming
+    image: danielsan05/bludit:latest
+    ports:
+      - "${HOST_PORT}:8080"
+    volumes:
+      - ${PLUGIN_PATH}:/usr/share/nginx/html/bl-plugins
+      - ${THEME_PATH}:/usr/share/nginx/html/bl-themes
+      - ${CONTENT_PATH}:/usr/share/nginx/html/bl-content
+    tty: true
+    stdin_open: true

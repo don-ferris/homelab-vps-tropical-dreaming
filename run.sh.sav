@@ -1,0 +1,5 @@
+docker run --name tropical-dreaming -p 8084:8080 \
+  -v $(pwd)/data/plugins:/usr/share/nginx/html/bl-plugins \
+  -v $(pwd)/data/themes:/usr/share/nginx/html/bl-themes \
+  -v $(pwd)/data/content:/usr/share/nginx/html/bl-content \
+  -it danielsan05/bludit:latest

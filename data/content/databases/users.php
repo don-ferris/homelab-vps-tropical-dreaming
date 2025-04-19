@@ -33,7 +33,7 @@
         "salt": "r!&9jv2&",
         "email": "PanamaDonnie@DonnyBahama.com",
         "registered": "2025-02-20 15:52:57",
-        "tokenRemember": "69c0eff11d7e031bf4eaec1557a072e6",
+        "tokenRemember": "3cef1a8286a6a877897781a268badfed",
         "tokenAuth": "a449f5ad853b57f3b328cadd09a2ef13",
         "tokenAuthTTL": "2009-03-15 14:00",
         "twitter": "",

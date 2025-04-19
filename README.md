@@ -7,7 +7,7 @@
 
 ### [▶️](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  Overview
 
-[Bludit Blog](https://www.bludit.com/) Our Panama travel blog
+[Tropical Dreamin - Krista & Donnie's Panama Travel Blog](https://TropicalDreaming.TikiShack.com/) Our Panama travel blog
 
 ---
 
@@ -19,14 +19,6 @@
 | Compose File | [`docker-compose.yml`](./docker-compose.yml) |
 | Env File     | [`.env`](./.env) |
 | Bind Mounts  | `./data` → `/data`  |
-
----
-
-### [:globe_with_meridians:](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) Docker Network
-
-| Network  | IP Address  | Gateway  | MAC Address  |
-|----------|-------------|----------|--------------|
-| docker_network	| 172.23.0.2	| 172.23.0.1	| 00:00:00:00:00:00	 |
 
 ---
 
@@ -62,12 +54,10 @@
 
 ### [:books:](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  References
 - [Official Docs](https://docs.bludit.com/en)
-- [Github repo](OFFICIAL_GITHUB_URL)
 - [Support URL](https://forum.bludit.org/)
 - [Reddit](https://www.reddit.com/r/bludit)
 - [Google Search](https://www.google.com/search?q=bludit)
 - [Dokuwiki link](https://labdocs.donferris.me/blog-tropical_dreaming)
-- [other links](https://example.com)
 
 ---
 
