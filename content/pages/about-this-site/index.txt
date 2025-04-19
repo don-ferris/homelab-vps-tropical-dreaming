@@ -1,0 +1,13 @@
+<div style="color: #000088 !important; padding: 2em !important;">
+<h1 style="text-align: center;">Welcome!</h1>
+<h2 style="text-align: center;">¡Bienvenidos!</h2>
+<h3 style="text-align: center;">E komo mai!</h3>
+<h4 style="text-align: center;">to...</h4>
+<h1 style="text-align: center;"><em>Tropical Dreaming</em></h1>
+<h4 style="text-align: center; line-height: 0.5em; padding: 1px;"><em>Krista &amp; Donnie's Panama Expat Blog - <br></em></h4>
+<h4 style="text-align: center;"><em>Pursuing our lifelong dream of happily ever after <br></em></h4>
+<h4 style="text-align: center;"><em>in a tropical paradise by the beach...</em></h4>
+<p>Welcome to Donnie and Krista's Panama Travel Blog, in which we explore Panama's coastlines, living as nomads in search of a place to settle down and enjoy the rest of our lives in a tropical paradise by the beach.</p>
+<p style="text-align: center;"><img src="http://tropicaldreaming.tikishack.com/bl-content/uploads/pages/63b491de1d009159cfdc28b143549bc9/IMG_0564.jpeg" alt="" width="30%"></p>
+<p>Our goal for this blog is to keep our family and friends up-to-date regarding our travels and experiences as we travel across Panama in search of a permanent home and the lifestyle to which we’ve always aspired. Our intent is to publish frequently, keeping things simple with short, single topic blog posts that only take a minute or two to post/read. Hopefully this will make us more likely to publish regularly and often.</p>
+</div>

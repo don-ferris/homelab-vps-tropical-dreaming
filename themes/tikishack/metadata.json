@@ -1,0 +1,10 @@
+{
+	"author": "Donnie Ferris",
+	"email": "web.dev@donferris.me",
+	"website": "https://donferris.me",
+	"version": "0.1.0",
+	"releaseDate": "2025-02-28",
+	"license": "MIT",
+	"compatible": "3.12.0",
+	"notes": "TikiShack"
+}

@@ -1,0 +1,28 @@
+<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
+{
+    "email": "donnybahama@gmail.com",
+    "name": "Krista and Donnie",
+    "page": "contact-us",
+    "type": "text",
+    "subject": "Blog Contact",
+    "user-cc": true,
+    "user-cc-subject": "",
+    "smtphost": "smtp.gmail.com",
+    "smtpport": "587",
+    "smtpencryption": "starttls",
+    "username": "donnybahama@gmail.com",
+    "password": "bxpd efvs riyd dduy",
+    "sendEmailFrom": "fromUser",
+    "domainAddress": "",
+    "gdpr-checkbox": false,
+    "gdpr-checkbox-text": "",
+    "gdpr-text-in-email": false,
+    "spam-protection": "",
+    "recaptcha-site-key": "",
+    "recaptcha-secret-key": "",
+    "hcaptcha-site-key": "",
+    "hcaptcha-secret-key": "",
+    "logical-question-0": "",
+    "logical-answer-0": "",
+    "position": 1
+}

@@ -1,0 +1,36 @@
+<table border="1" style="border-collapse: collapse; width: 89.7474%; height: 28px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 32.8477%; height: 18px;"><a href="https://tropicaldreaming.tikishack.com/">Blog Home Page</a></td>
+<td style="width: 32.8477%; height: 18px;"><a href="https://tropicaldreaming.tikishack.com/admin/new-content">New Post</a></td>
+<td style="width: 32.851%; height: 18px;"><a href="https://tropicaldreaming.tikishack.com/admin/content">Manage Content/Pages</a></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 32.8477%; height: 10px;"><a href="https://docs.bludit.com/en/">Bludit Docs</a></td>
+<td style="width: 32.8477%; height: 10px;"></td>
+<td style="width: 32.851%; height: 10px;"></td>
+</tr>
+<tr style="height: 0px;">
+<td style="width: 32.8477%; height: 0px;"></td>
+<td style="width: 32.8477%; height: 0px;"></td>
+<td style="width: 32.851%; height: 0px;"></td>
+</tr>
+<tr style="height: 0px;">
+<td style="width: 32.8477%; height: 0px;"></td>
+<td style="width: 32.8477%; height: 0px;"></td>
+<td style="width: 32.851%; height: 0px;"></td>
+</tr>
+<tr style="height: 0px;">
+<td style="width: 32.8477%; height: 0px;"></td>
+<td style="width: 32.8477%; height: 0px;"></td>
+<td style="width: 32.851%; height: 0px;"></td>
+</tr>
+<tr style="height: 0px;">
+<td style="width: 32.8477%; height: 0px;"></td>
+<td style="width: 32.8477%; height: 0px;"></td>
+<td style="width: 32.851%; height: 0px;"></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
