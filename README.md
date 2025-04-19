@@ -1,6 +1,6 @@
 # TROPICAL-DREAMING (BLUDIT BLOG)
 **Container**: tropical-dreaming  
-**Server**: VPS  
+**Server**: [VPS](https://github.com/don-ferris/homelab-vps-server)  
 **Host Path**: `/root/docker/tropical-dreaming`
 
 ---
