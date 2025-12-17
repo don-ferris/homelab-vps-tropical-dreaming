@@ -27,7 +27,7 @@
 | Access Type     | Value / URL                             |
 |------------------|------------------------------------------|
 | Public Hostname  | [TropicalDreaming.TikiShack.com](https://TropicalDreaming.TikiShack.com) *(via [Cloudflare Tunnel](https://one.dash.cloudflare.com/0889c842407ffe50bd89d900e389f5b7/networks/tunnels/7f2310e1-5350-4ab6-9c94-bb92159f1851/public-hostname/tropicaldreaming.tikishack.com/6))* |
-| VPS IP:PORT         | [107.172.201.30:8084](http://107.172.201.30:8084) |
+| VPS IP:PORT         | [107.172.201.30:8084](http://107.172.201.9:8084) |
 | Auth Required?   | Yes |
 | Admin Username   | donnybahama@gmail.com |
 | Password (1)     | bxpd efvs riyd dduy |
